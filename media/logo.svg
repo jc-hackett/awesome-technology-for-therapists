@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520">
+  <g fill="#5b8f8a">
+    <polygon points="204,36 230,62 158,150 130,150 130,112"/>
+    <polygon points="596,36 570,62 642,150 670,150 670,112"/>
+    <path d="M130,150 H670 V250 Q670,330 590,330 H500 Q430,330 430,260 V200 H370 V260 Q370,330 300,330 H210 Q130,330 130,250 V150 Z"/>
+  </g>
+  <text x="400" y="430" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="104" fill="#463f6b">awesome</text>
+  <text x="400" y="482" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="44" fill="#5b8f8a">technology for therapists</text>
+  <text x="400" y="512" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#8a8a8a">Curating software made for mental-health clinicians</text>
+</svg>
