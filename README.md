@@ -94,7 +94,7 @@ Voice-to-text tools need not be built for therapists to be listed here; any clin
 - 🛡️✨ [Augnito](https://augnito.ai/) - Voice AI for clinical documentation, including radiology.
 - 🛡️ [Dragon Medical One](https://www.microsoft.com/en-us/health-solutions/clinical-workflow/dragon-medical-one) - The number one clinical documentation companion. Cloud speech recognition from Microsoft, working inside major EHRs.
 - [Dragon Professional](https://dragon.nuance.com/en-us/dragon-professional) - Desktop dictation for document-heavy work; speech is recognized on your Windows computer.
-- 🏠🧪 [florisboard-tx](https://github.com/jc-hackett/florisboard-tx) - Android keyboard with a hold-to-talk dictation key. Speech is transcribed on your own server, not a vendor's. Fork of FlorisBoard. `Apache-2.0` `Kotlin/Python`
+- 🏠✨🧪 [SovereignBoard](https://github.com/jc-hackett/sovereignboard) - Android keyboard with a dictation key and optional AI cleanup. Speech is transcribed on your own server, not a vendor's. Built on HeliBoard. `GPL-3.0` `Kotlin`
 - [Fluency Direct](https://www.solventum.com/en-us/home/health-information-technology/solutions/fluency-direct/) - Medical voice recognition for creating, editing and signing notes directly in the EHR. From Solventum, formerly 3M M*Modal.
 - 🤝🛡️✨ [Heidi Dictate](https://www.heidihealth.com/en-us/solutions/hipaa-compliant-dictation-software) - Free HIPAA-compliant dictation software for clinicians.
 - 🏠 [MacWhisper](https://macwhisper.com/) - Transcribes audio, meetings and dictation locally on your Mac.
@@ -235,7 +235,7 @@ State by state: see [State Therapist Directories](State%20Therapist%20Directorie
 | [Augnito](https://augnito.ai/)                                              | Not found               | Unverified                     | Vendor cloud                  | SOC 2, ISO 27001       | Unverified                  |
 | [Dragon Medical One](https://www.microsoft.com/en-us/health-solutions/clinical-workflow/dragon-medical-one) | Unverified | Unverified           | Microsoft Azure               | HITRUST                | $79–99/month by term        |
 | [Dragon Professional](https://dragon.nuance.com/en-us/dragon-professional)  | Not needed (local)      | Unverified                     | Your computer                 | —                      | Unverified                  |
-| [florisboard-tx](https://github.com/jc-hackett/florisboard-tx)              | You host                | No                             | Your server                   | —                      | Free                        |
+| [SovereignBoard](https://github.com/jc-hackett/sovereignboard)               | You host                | No                             | Your server                   | —                      | Free                        |
 | [Fluency Direct](https://www.solventum.com/en-us/home/health-information-technology/solutions/fluency-direct/) | Not found | Unverified       | Solventum cloud               | Unverified             | Not public                  |
 | [Heidi Dictate](https://www.heidihealth.com/en-us/solutions/hipaa-compliant-dictation-software) | On request | No (de-identified data may improve services) | Vendor cloud | SOC 2, ISO 27001 | Free tier; paid unverified |
 | [MacWhisper](https://macwhisper.com/)                                       | Not needed (local)      | Unverified                     | Your Mac (cloud optional)     | —                      | Free; Pro €64 once          |
@@ -327,6 +327,6 @@ Contributions welcome. Read the [contribution guidelines](CONTRIBUTING.md) first
 ## Footnotes
 
 - Sources for every claim are in [standards.md](standards.md).
-- Disclosure: the maintainer, Jeremiah Hackett, LCSW, builds limn-os and florisboard-tx, which are listed here.
+- Disclosure: the maintainer, Jeremiah Hackett, LCSW, builds limn-os and SovereignBoard, which are listed here.
 
  
