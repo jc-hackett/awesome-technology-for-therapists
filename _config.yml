@@ -1,0 +1,11 @@
+title: Awesome Technology for Therapists
+description: Software made for therapists and other mental-health clinicians — practice management, AI notes, dictation, billing and more, with what each vendor says about protecting client information.
+url: https://jc-hackett.github.io
+baseurl: /awesome-technology-for-therapists
+image: /media/social-preview.png
+theme: jekyll-theme-primer
+twitter:
+  card: summary_large_image
+exclude:
+  - .scratch
+  - Technology for Therapists.md
