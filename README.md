@@ -3,7 +3,13 @@
 **Software made for psychotherapists, counselors, social workers, psychologists and other mental-health clinicians.**  
 Open source & proprietary — practice management, AI notes, measurement, insurance, licensure hours, directories and more.
 
-![Awesome](https://awesome.re/badge-flat2.svg) ![Stars](https://img.shields.io/github/stars/jc-hackett/awesome-technology-for-therapists?style=social) ![Last Commit](https://img.shields.io/github/last-commit/jc-hackett/awesome-technology-for-therapists) ![Contributors](https://img.shields.io/github/contributors/jc-hackett/awesome-technology-for-therapists) ![Tools](https://img.shields.io/badge/tools-50%2B-blue)
+<p align="center">
+  <img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
+  <img src="https://img.shields.io/github/stars/jc-hackett/awesome-technology-for-therapists?style=social" alt="Stars">
+  <img src="https://img.shields.io/github/last-commit/jc-hackett/awesome-technology-for-therapists" alt="Last Commit">
+  <img src="https://img.shields.io/github/contributors/jc-hackett/awesome-technology-for-therapists" alt="Contributors">
+  <img src="https://img.shields.io/badge/tools-50%2B-blue" alt="Tools">
+</p>
 
 > **What is this?** A directory of software built for therapy practice. Each entry uses the vendor's own description; the icons record what the vendor states about protecting client information.
 >
